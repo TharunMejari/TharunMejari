@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning backend
 - 💞️ I’m looking to collaborate on GitHub 
 - 📫 How to reach me tharunmejari@gmail.com
-- 😄 Pronouns: Tharun
+- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 <!---
