@@ -27,7 +27,7 @@ A passionate **Full-Stack Developer** and Computer Science student focused on bu
 ### 💬 Let's Connect!
 
 *   **📧 Email:** tharunmejari@gmail.com
-*   **💼 LinkedIn:** [Your LinkedIn Profile Link Here]
+*   **💼 LinkedIn:** https://www.linkedin.com/in/tharun-mejari-90a589257
 *   **🌱 Currently exploring:** Advanced backend architectures and system design.
 
 _“Striving to write clean, maintainable code, one commit at a time.”_
